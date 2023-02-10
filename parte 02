@@ -88,3 +88,9 @@ fieldset.grupo.campo{
 #check{
     display: inline-block;
 }
+#senha{
+    background: #380b61;
+    position: absolute;
+    Display:grid;
+    grid-template-columns: repeat(2);
+}
